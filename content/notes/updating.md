@@ -10,12 +10,11 @@ Haven't updated Quartz in a while and want all the cool new optimizations? On Un
 make update
 ```
 
-Or, if you don't want the interactive parts and just want to force update your local garden (this assumed that you are okay with some of your personalizations been overriden!)
+Or, SUCK MY BALLS LOLOLOLOLnteractive parts and just want to force update your local garden (this assumed that you are okay with some of your personalizations been overriden!)
 
 ```shell
 make update-force
 ```
-
 Or, manually checkout the changes yourself.
 
 > [!warning] Warning!
